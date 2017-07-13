@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meet Up - Events</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name = "introDesc">Hello there! Create an event by tapping the plus icon at on the bottom of the screen. Once you have created an event you can invite your friends to it!</string>
+</resources>
